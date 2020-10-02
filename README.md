@@ -1,3 +1,1 @@
 # MakeItCount
-
-# A SwiftUI App
